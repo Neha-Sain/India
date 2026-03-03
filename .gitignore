@@ -1,0 +1,5 @@
+#Default igored files
+/Shelf/
+/workspace.xml
+.idea/*
+target/*
